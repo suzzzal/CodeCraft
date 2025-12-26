@@ -44,6 +44,7 @@
 | Ibrahim Raza Beg        | PHOX-9               | IIIT Allahabad                 |
 | Mayank Puri             | purimayank19-bot.  | IIIT Allahabad                  |
 | Abhigyan Tiwari            | Abh-igyan  | NIT Silchar                  |
+| Vishva Modh | ViMo018 | IIIT Allahabad |
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty41 | Reyansh College | -->
 
