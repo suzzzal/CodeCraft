@@ -67,6 +67,7 @@
 | Apoorv Mittal              | Apoorv012              | JIIT Noida                |
 | Chauhan Devan            | Devan019              | DDIT nadiad                |
 | Amogh S.                 | MogaS811              | IIIT Allahabad.             |
+| Kushagra Raghuvanshi     | Taskmaster-afk        | IIIT Allahabad             |
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty41 | Reyansh College | -->
 
